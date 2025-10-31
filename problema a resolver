@@ -1,0 +1,30 @@
+Proyecto de Red Básico
+Packet Tracer
+
+Seguridad de Redes y Redes de Computadoras
+
+Problema: 
+
+La empresa Blue Ribbon de Panamá, necesita crear la topología de red WiFi para conectarse a internet, además, desea agregar los
+siguientes equipos.
+
+a. 1 Router WRT300N Wireless
+b. 1 PC
+c. 1 Laptop
+d. 1 Cable Modem
+e. Internet Cloud
+f. Servidor cisco.com
+
+Se debe crear la topología adecuada para luego relizar las
+configuraciones respectivas de los equipos.
+
+Requisitos:
+
+-La PC se debe conectar al WiFi por cable de red
+-La Laptop se debe conectar inalámbricamente al Router WiFi
+-El Servidor se debe conectar por cable de red 
+
+Nota Importante:
+
+Tomar en cuenta que la conexión del Modem al Internet Cloud 
+debe utilizar cable coaxial.
