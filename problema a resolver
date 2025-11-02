@@ -3,9 +3,30 @@ Packet Tracer
 
 Seguridad de Redes y Redes de Computadoras
 
-Problema: 
+Objetivo del Proyecto
 
-La empresa Blue Ribbon de Panamá, necesita crear la topología de red WiFi para conectarse a internet, además, desea agregar los
+Diseñar y configurar una topología de red básica inalámbrica y cableada en Cisco Packet Tracer para la empresa Blue Ribbon de Panamá, aplicando los fundamentos de Seguridad de Redes y Redes de Computadoras.
+
+El estudiante deberá implementar correctamente la conexión de los dispositivos (router inalámbrico, PC, laptop, servidor, módem e Internet Cloud), garantizando la conectividad total hacia Internet, 
+el uso correcto de los medios físicos y lógicos (coaxial, Ethernet y Wi-Fi) y la asignación adecuada de direcciones IP en cada equipo.
+
+Objetivos Específicos
+
+-Diseñar la topología de red incorporando los equipos requeridos (router inalámbrico WRT300N, PC, laptop, servidor, cable módem e Internet Cloud).
+
+-Configurar la conectividad inalámbrica (WiFi) en el router WRT300N, permitiendo el acceso seguro de la laptop mediante autenticación SSID y clave WPA2.
+
+-Establecer la conexión cableada entre el router, la PC y el servidor, garantizando la comunicación por medio de interfaces Ethernet correctamente configuradas.
+
+-Simular la conexión del módem al Internet Cloud mediante el uso del cable coaxial, asegurando la salida a Internet para todos los dispositivos de la red.
+
+-Asignar direcciones IP adecuadas para cada dispositivo dentro de la red local y validar la conectividad con el servidor cisco.com mediante pruebas de ping.
+
+-Verificar la seguridad y funcionamiento general de la red, garantizando el acceso correcto tanto por conexión cableada como inalámbrica.
+
+***Problema:***
+
+El Institu Técnico Superior Especializado (ITSE), necesita crear la topología de red WiFi para conectarse a internet, además, desea agregar los
 siguientes equipos.
 
 a. 1 Router WRT300N Wireless
