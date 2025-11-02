@@ -6,7 +6,7 @@ Seguridad de Redes y Redes de Computadoras
 
 Objetivo del Proyecto
 
-Diseñar y configurar una topología de red básica inalámbrica y cableada en Cisco Packet Tracer para la empresa Blue Ribbon de Panamá, aplicando los fundamentos de Seguridad de Redes y Redes de Computadoras.
+Diseñar y configurar una topología de red básica inalámbrica y cableada en Cisco Packet Tracer para el Instituto Técnico Superior Especializado, aplicando los fundamentos de Seguridad de Redes y Redes de Computadoras.
 
 El estudiante deberá implementar correctamente la conexión de los dispositivos (router inalámbrico, PC, laptop, servidor, módem e Internet Cloud), garantizando la conectividad total hacia Internet, 
 el uso correcto de los medios físicos y lógicos (coaxial, Ethernet y Wi-Fi) y la asignación adecuada de direcciones IP en cada equipo.
@@ -50,5 +50,4 @@ Requisitos:
 
 Nota Importante:
 
-Tomar en cuenta que la conexión del Modem al Internet Cloud 
-debe utilizar cable coaxial.
+Tomar en cuenta que la conexión del Modem al Internet Cloud debe utilizar cable coaxial.
