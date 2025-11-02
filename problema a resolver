@@ -25,6 +25,8 @@ Objetivos Específicos
 
 -Verificar la seguridad y funcionamiento general de la red, garantizando el acceso correcto tanto por conexión cableada como inalámbrica.
 
+-Acceder desde cualquier dispositivo de la red a la página web alojada en el servidor con el dominio itse.com
+
 ***Problema:***
 
 El Instituto Técnico Superior Especializado (ITSE), necesita crear la topología de red WiFi para conectarse a internet y un servidor hosting con su página web, además, desea agregar los
